@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="str-to-json",
-    version="0.0.2",
+    version="0.0.3",
     author="Daniel Anggrianto",
     author_email="d.anggrianto@gmail.com",
     description="Convert string on clipboard to JSON",
